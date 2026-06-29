@@ -6,4 +6,4 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQ6l9WirYQ5GhUBABHB5BiUBQNhFHbzaaUAxFSTsH_72uA?e=ED20AS)
 
-[GITHUB PAGE URL ](https://cpe207-2569.github.io/lab02-TanapatBoonseub/): 
+<strong>[GITHUB PAGE URL ](https://cpe207-2569.github.io/lab02-TanapatBoonseub/) </strong>
